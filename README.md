@@ -94,4 +94,3 @@ This project is open-sourced under the MIT License.
 
 ---
 
-*Created with ❤️ by Bryan Cha*
