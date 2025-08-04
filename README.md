@@ -12,7 +12,7 @@ This project demonstrates a complete ELT (Extract → Load → Transform) pipeli
 - **Source**: Netflix Titles Dataset (e.g. from Kaggle)
 - **Content**: Information about TV shows and movies available on Netflix including title, cast, genre, release year, country, duration, and more
 
-##� Architecture & Workflow
+## Architecture & Workflow
 
 ### 1. Extract
 - Download the dataset using the Kaggle API
